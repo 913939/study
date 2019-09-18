@@ -8,11 +8,11 @@ module.exports = {
         '/': {
             lang: 'zh-CN',
             title: '前端知识点总结',
-            description: '任何不能够给你快乐的编程都是耍流氓!!!'
+            description: '任何不能够给你快乐的编程都是耍流氓!!'
         }
     },
     head: [
-        ['link', { rel: 'icon', href: `/logo.jpg` }],
+        ['link', { rel: 'icon', href: `/log.jpg` }],
         ['link', { rel: 'manifest', href: '/manifest.json' }],
         ['meta', { name: 'theme-color', content: '#3eaf7c' }],
         ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
